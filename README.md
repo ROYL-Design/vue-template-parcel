@@ -1,8 +1,8 @@
-# vuejs-template-parcel
+# vue-template-parcel
 
-A project template for vue-cli that setup projects with Vue.js and Parcel.
+Vue and Parcel template for vue-cli.
 
-Instead of Webpack, this project take advantage of [Parcel](https://github.com/parcel-bundler/parcel), which is really fast and easy to use.
+Instead of Webpack, this template uses [Parcel](https://github.com/parcel-bundler/parcel) as module bundler, which is really fast and easy to use.
 
 Many thanks to [Parcel](https://github.com/parcel-bundler/parcel) and [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) project.
 
@@ -11,7 +11,7 @@ Many thanks to [Parcel](https://github.com/parcel-bundler/parcel) and [parcel-pl
 Install with [vue-cli](https://github.com/vuejs/vue-cli):
 
 ``` bash
-$ vue init royl-design/vuejs-template-parcel my-project
+$ vue init royl-design/vue-template-parcel my-project
 ```
 
 Then install the dependencies:
