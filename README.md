@@ -1,10 +1,10 @@
 # vuejs-template-parcel
 
-> A project template for vue-cli that setup projects with Vue.js and Parcel.
+A project template for vue-cli that setup projects with Vue.js and Parcel.
 
-> Instead of Webpack, this project take advantage of [Parcel](https://github.com/parcel-bundler/parcel), which is really fast and easy to use.
+Instead of Webpack, this project take advantage of [Parcel](https://github.com/parcel-bundler/parcel), which is really fast and easy to use.
 
-> Many thanks to [Parcel](https://github.com/parcel-bundler/parcel) and [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) project.
+Many thanks to [Parcel](https://github.com/parcel-bundler/parcel) and [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) project.
 
 ### Usage
 
