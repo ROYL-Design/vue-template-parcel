@@ -4,7 +4,7 @@ Vue and Parcel template for vue-cli.
 
 Instead of Webpack, this template uses [Parcel](https://github.com/parcel-bundler/parcel) as module bundler, which is really fast and easy to use.
 
-Many thanks to [Parcel](https://github.com/parcel-bundler/parcel) and [parcel-plugin-vue](https://github.com/BoltDoggy/parcel-plugin-vue) project.
+Update: Parcel 1.7 now has built-in Vue support! Yes!🚀
 
 ### Usage
 
